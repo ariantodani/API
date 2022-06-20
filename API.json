@@ -1,0 +1,27 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Privasi merupakan hal penting yang saat ini jadi salah satu konsen di dunia keamanan. Tidak hanya untuk ruang lingkup yang besar, tapi juga untuk ruang lingkup yang kecil seperti penggunaan smartphone.",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Banyak orang yang merasa risih ketika smartphone-nya dipegang oleh orang lain, dan dengan sebab itulah smartphone menyediakan fitur kunci layar.",
+      "completed": false
+    },
+
+    {
+      "userId": 1,
+      "id": 10,
+      "title": "Website ini sebagai tempat yang menyediakan barang-barang outdoor dari Brand terpercaya.",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 11,
+      "title": "Website ini juga bisa dijadikan rekomendasi untuk orang-orang yang mencari barang outdoor.",
+      "completed": true
+    }
+    ]
